@@ -1,5 +1,7 @@
-# Call Packages
+# This code analyzes Residential Property Assessment values of City of Edmonton
+# Another purpose was to extract data into smaller files by Assessment year, so as to use in (size limited) Tableau Public
 
+# Call Packages
 library(lubridate)
 library(tidyverse)
 library(xlsx)
